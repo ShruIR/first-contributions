@@ -594,6 +594,7 @@
 - [kzack123](https://github.com/kzack123)
 - Alex
 - [Shreya Badchariya](https://github.com/shreya50)
+- [Shruti Iyer](https://github.com/ShruIR)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
